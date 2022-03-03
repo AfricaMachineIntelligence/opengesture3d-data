@@ -9,5 +9,7 @@ Depth                 |  Color
 
 
 
-Download [OpenGesture Depth and Color Dataset](https://gesture3d.s3.amazonaws.com/opengesture3d-data.tar.xzz)<br>
+Download [OpenGesture Depth and Color Dataset](https://gesture3d.s3.amazonaws.com/opengesture3d-data.tar.xz)<br>
 Download [OpenGesture Color(RGB) Dataset](https://planetg.s3.amazonaws.com/opengesture-data.tar.xz)<br>
+Download [OpenGesture Zulu Dataset](https://planetg.s3.amazonaws.com/opengesture-zulu.tar.xz)<br>
+Download [OpenGesture Swahili Dataset](https://planetg.s3.amazonaws.com/opengesture-swahili.tar.xz)<br>
